@@ -1,0 +1,23 @@
+/*GENERALES*/
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: sans-serif, Helvetica, Arial;
+}
+
+body {
+  background: url(../img/bg.png);
+}
+
+#content {
+  margin: 0px auto;
+  overflow: hidden;
+  height: 90vh;
+}
+th,
+td {
+  width: 10rem;
+  text-align: left;
+  padding: 0.5rem;
+}
