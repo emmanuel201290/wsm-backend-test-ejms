@@ -21,6 +21,8 @@ define("base_url","http://localhost/wsm-backend-test-ejms/");
 
 ```
 
+Al descargar el proyecto, puede renombrar la carpeta 
+[wsm-backend-test-ejms-master]  a  [wsm-backend-test-ejms] para acceder en el localhost como se menciona en el punto anterior.
 
 
 
