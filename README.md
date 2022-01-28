@@ -16,6 +16,8 @@ Contiene el link de inicio de la aplicacion
 
 ## Link
 
+Url: http://localhost/wsm-backend-test-ejms/reports/index
+
 ```python
 define("base_url","http://localhost/wsm-backend-test-ejms/");
 
